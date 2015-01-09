@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Recent Content on 株式会社ITAKO </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://itakoh.github.io/index.xml/</link>
+    <language>ja-jp</language>
+    
+    
+    <updated>Sat, 10 Jan 2015 00:18:26 JST</updated>
+    
+    <item>
+      <title>About Us</title>
+      <link>http://itakoh.github.io/about/</link>
+      <pubDate>Sat, 10 Jan 2015 00:18:26 JST</pubDate>
+      
+      <guid>http://itakoh.github.io/about/</guid>
+      <description>
+
+&lt;h3 id=&#34;toc_0&#34;&gt;社名&lt;/h3&gt;
+
+&lt;p&gt;株式会社ITAKO (ITAKO Inc.)&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;代表者&lt;/h3&gt;
+
+&lt;p&gt;代表取締役　河野 修弘&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;本社所在地&lt;/h3&gt;
+
+&lt;p&gt;〒160-0022&lt;br /&gt;
+東京都新宿区新宿 3丁目12番4号 新宿Nタウンプラザ 309号&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_3&#34;&gt;連絡先&lt;/h3&gt;
+
+&lt;p&gt;contact@itakoh.co.jp&lt;br /&gt;
+03-6313-7096&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>時は2015年</title>
+      <link>http://itakoh.github.io/post/first/</link>
+      <pubDate>Mon, 05 Jan 2015 03:06:26 JST</pubDate>
+      
+      <guid>http://itakoh.github.io/post/first/</guid>
+      <description>&lt;p&gt;会社を設立しました。株式会社ITAKOです。よろしくお願いいたします。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
