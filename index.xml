@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on 株式会社ITAKO </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://itakoh.github.io/index.xml/</link>
+    <link>http://www.itakoh.co.jp/index.xml/</link>
     <language>ja-jp</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>About Us</title>
-      <link>http://itakoh.github.io/about/</link>
+      <link>http://www.itakoh.co.jp/about/</link>
       <pubDate>Sat, 10 Jan 2015 00:18:27 JST</pubDate>
       
-      <guid>http://itakoh.github.io/about/</guid>
+      <guid>http://www.itakoh.co.jp/about/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;社名&lt;/h3&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>時は2015年</title>
-      <link>http://itakoh.github.io/post/first/</link>
+      <link>http://www.itakoh.co.jp/post/first/</link>
       <pubDate>Mon, 05 Jan 2015 03:06:27 JST</pubDate>
       
-      <guid>http://itakoh.github.io/post/first/</guid>
+      <guid>http://www.itakoh.co.jp/post/first/</guid>
       <description>&lt;p&gt;会社を設立しました。株式会社ITAKOです。よろしくお願いいたします。&lt;/p&gt;
 </description>
     </item>
