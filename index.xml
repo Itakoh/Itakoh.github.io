@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on 株式会社ITAKO </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://www.itakoh.co.jp/index.xml/</link>
+    <link>https://www.itakoh.co.jp/index.xml/</link>
     <language>ja-jp</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Philosophy</title>
-      <link>http://www.itakoh.co.jp/philosophy/</link>
+      <link>https://www.itakoh.co.jp/philosophy/</link>
       <pubDate>Thu, 16 Apr 2015 00:18:27 JST</pubDate>
       
-      <guid>http://www.itakoh.co.jp/philosophy/</guid>
+      <guid>https://www.itakoh.co.jp/philosophy/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;企業理念&lt;/h3&gt;
@@ -54,10 +54,10 @@
     
     <item>
       <title>About Us</title>
-      <link>http://www.itakoh.co.jp/about/</link>
+      <link>https://www.itakoh.co.jp/about/</link>
       <pubDate>Sat, 10 Jan 2015 00:18:27 JST</pubDate>
       
-      <guid>http://www.itakoh.co.jp/about/</guid>
+      <guid>https://www.itakoh.co.jp/about/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;社名&lt;/h3&gt;
@@ -82,10 +82,10 @@
     
     <item>
       <title>時は2015年</title>
-      <link>http://www.itakoh.co.jp/post/first/</link>
+      <link>https://www.itakoh.co.jp/post/first/</link>
       <pubDate>Mon, 05 Jan 2015 03:06:27 JST</pubDate>
       
-      <guid>http://www.itakoh.co.jp/post/first/</guid>
+      <guid>https://www.itakoh.co.jp/post/first/</guid>
       <description>&lt;p&gt;会社を設立しました。株式会社ITAKOです。よろしくお願いいたします。&lt;/p&gt;
 </description>
     </item>
